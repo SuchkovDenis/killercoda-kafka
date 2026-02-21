@@ -1,0 +1,23 @@
+{
+  "title": "Apache Kafka — Практика",
+  "description": "Интерактивные лабораторные работы к курсу Apache Kafka",
+  "items": [
+    {"path": "3-1-kafka-cluster", "title": "3.1 Docker Compose + KRaft + Kafka UI"},
+    {"path": "3-2-kafka-cli", "title": "3.2 Kafka CLI"},
+    {"path": "3-4-console-messaging", "title": "3.4 Console Producer и Consumer"},
+    {"path": "4-2-basic-producer", "title": "4.2 Базовый Producer"},
+    {"path": "4-3-basic-consumer", "title": "4.3 Базовый Consumer"},
+    {"path": "4-4-producer-consumer-100", "title": "4.4 Задание: 100 сообщений"},
+    {"path": "5-5-producer-tuning", "title": "5.5 Тюнинг Producer"},
+    {"path": "6-5-consumer-manual-commit", "title": "6.5 Consumer с ручным коммитом"},
+    {"path": "7-2-crypto-producer", "title": "7.2 Producer: Binance WebSocket"},
+    {"path": "7-3-crypto-consumer", "title": "7.3 Consumer: фильтрация и аномалии"},
+    {"path": "7-4-crypto-sink", "title": "7.4 Sink: PostgreSQL"},
+    {"path": "7-6-crypto-pipeline", "title": "7.6 Полный пайплайн"},
+    {"path": "8-2-schema-registry", "title": "8.2 Schema Registry"},
+    {"path": "8-4-avro-practice", "title": "8.4 Producer/Consumer на Avro"},
+    {"path": "9-5-compacted-topic", "title": "9.5 Compacted Topic"},
+    {"path": "12-2-fraud-setup", "title": "12.2 Стенд Fraud Detection"},
+    {"path": "12-3-fraud-detector", "title": "12.3 Fraud Detector"}
+  ]
+}
